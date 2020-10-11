@@ -2,7 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 
-public class EndlessTerrain : MonoBehaviour {
+public class Chunk : MonoBehaviour {
 
 	public const float maxViewDst = 450;
 	public Transform viewer;
